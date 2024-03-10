@@ -3,7 +3,7 @@ from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.errors import MessageDeleteForbidden, RPCError
 from pyrogram.types import Message
-from TamannaMusic.utils.vip_ban import admin_filter
+from TamannaMusic.utils.Tamanna_ban import admin_filter
 from TamannaMusic import app
 
 
