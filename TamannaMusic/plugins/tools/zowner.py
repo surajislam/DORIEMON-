@@ -27,7 +27,7 @@ from pyrogram.errors import (
     UserNotParticipant,
 )
 from TamannaMusic import app
-from TamannaMusic.utils.tamanna_ban import admin_filter
+from TamannaMusic.utils.Tamanna_ban import admin_filter
 from TamannaMusic.utils.decorators.userbotjoin import UserbotWrapper
 from TamannaMusic.utils.database import get_assistant, is_active_chat
 
