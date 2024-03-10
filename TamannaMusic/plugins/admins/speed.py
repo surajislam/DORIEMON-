@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from TamannaMusic import app
-from TamannaMusic.core.call import VIP
+from TamannaMusic.core.call import Tamanna
 from TamannaMusic.misc import SUDOERS, db
 from TamannaMusic.utils import AdminRightsCheck
 from TamannaMusic.utils.database import is_active_chat, is_nonadmin_chat
@@ -85,7 +85,7 @@ async def del_back_playlist(client, callback_query, _):
         text=_["admin_32"].format(callback_query.from_user.mention),
     )
     try:
-        await VIP.speedup_stream(
+        await Tamanna.speedup_stream(
             chat_id,
             file_path,
             speed,
