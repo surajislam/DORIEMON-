@@ -19,7 +19,7 @@ from TamannaMusic import app, userbot
 from TamannaMusic.misc import SUDOERS
 from pyrogram import * 
 from pyrogram.types import *
-from TamannaMusic.utils.vip_ban import admin_filter
+from TamannaMusic.utils.Tamanna_ban import admin_filter
 import random
 from pyrogram import Client, filters
 from pyrogram.types import ChatJoinRequest, InlineKeyboardButton, InlineKeyboardMarkup
@@ -33,7 +33,7 @@ from pyrogram.enums import ParseMode
 from pyrogram import *
 from pyrogram.types import *
 from logging import getLogger
-from TamannaMusic.utils.tamanna_ban import admin_filter
+from TamannaMusic.utils.Tamanna_ban import admin_filter
 import os
 from TamannaMusic.misc import SUDOERS
 from PIL import ImageDraw, Image, ImageFont, ImageChops
