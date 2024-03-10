@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from TamannaMusic import YouTube, app
-from TamannaMusic.core.call import VIP
+from TamannaMusic.core.call import Tamanna
 from TamannaMusic.misc import db
 from TamannaMusic.utils import AdminRightsCheck, seconds_to_min
 from TamannaMusic.utils.inline import close_markup
