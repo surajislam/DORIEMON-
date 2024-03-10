@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, Message
 
 import config
 from TamannaMusic import YouTube, app
-from TamannaMusic.core.call import VIP
+from TamannaMusic.core.call import Tamanna
 from TamannaMusic.misc import db
 from TamannaMusic.utils.database import get_loop
 from TamannaMusic.utils.decorators import AdminRightsCheck
