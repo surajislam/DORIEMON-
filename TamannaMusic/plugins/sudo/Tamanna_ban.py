@@ -4,14 +4,14 @@ from TamannaMusic import app, userbot
 from TamannaMusic.misc import SUDOERS
 from pyrogram import * 
 from pyrogram.types import *
-from TamannaMusic.utils.vip_ban import admin_filter
+from TamannaMusic.utils.Tamanna_ban import admin_filter
 
 
 
 
 
 
-Tawanna_text = [
+Tamanna_text = [
 "hey please don't disturb me.",
 "who are you",    
 "aap kon ho",
