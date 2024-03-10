@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType, ChatMemberStatus
 from pyrogram.errors import UserNotParticipant
 from pyrogram.types import ChatPermissions
 from TamannaMusic import app
-from TamannaMusic.utils.vip_ban import admin_filter
+from TamannaMusic.utils.Tamanna_ban import admin_filter
 
 
 SPAM_CHATS = []
