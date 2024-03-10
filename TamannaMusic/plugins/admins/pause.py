@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from TamannaMusic import app
-from TamannaMusic.core.call import VIP
+from TamannaMusic.core.call import Tamanna
 from TamannaMusic.utils.database import is_music_playing, music_off
 from TamannaMusic.utils.decorators import AdminRightsCheck
 from TamannaMusic.utils.inline import close_markup
