@@ -25,10 +25,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajislam &repo=TamannaMusic&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surajislam &repo=DORIEMON-&theme=flag-india)
 
 [![GIF](https://github.com/surajislam/DORIEMON-/blob/main/Silentsmile29.gif)](https://github.com/surajislam/DORIEMON-)
-   [![SURAJ MUSIC ](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")](https://github-stats-alpha.vercel.app/api?username=surajislam "surajislam")
+   [![SURAJ MUSIC ](https://github-stats-alpha.vercel.app/api?username=surajislam "surajislam")](https://github-stats-alpha.vercel.app/api?username=surajislam "surajislam")
 
 
 <p align="center">
