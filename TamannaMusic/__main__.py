@@ -41,12 +41,12 @@ async def init():
     await userbot.start()
     await Tamanna.start()
     await Tamanna.decorators()
-    LOGGER("TamannaMusic").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗜𝗟𝗘𝗡𝗧 𝗦𝗠𝗜𝗟𝗘♨️\n╚═════ஜ۩۞۩ஜ════╝"
+    LOGGER("TamannaMusic").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️MADE BY SURAJ ♨️\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("TamannaMusic").info("                 ╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗜𝗟𝗘𝗡𝗧 𝗦𝗠𝗜𝗟𝗘♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("TamannaMusic").info("                 ╔═════ஜ۩۞۩ஜ════╗\n  ♨️MADE BY SURAJ ♨️\n╚═════ஜ۩۞۩ஜ════╝")
     
 
 if __name__ == "__main__":
