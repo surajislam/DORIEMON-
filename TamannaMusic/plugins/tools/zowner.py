@@ -42,7 +42,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "• sᴏᴜʀᴄᴇ •", url=f"https://github.com/Silentsmile29/TamannaMusic")
+                        "• sᴏᴜʀᴄᴇ •", url=f"https://graph.org/file/77a999a99be177e7826be.mp4")
                 ]
             ]
         ),
@@ -60,7 +60,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "• sᴏᴜʀᴄᴇ •", url=f"https://github.com/Silentsmile29/TamannaMusic")
+                        "• sᴏᴜʀᴄᴇ •", url=f"https://graph.org/file/77a999a99be177e7826be.mp4")
                 ]
             ]
         ),
@@ -77,7 +77,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "• sᴏᴜʀᴄᴇ •", url=f"https://github.com/Silentsmile29/TamannaMusic")
+                        "• sᴏᴜʀᴄᴇ •", url=f"https://graph.org/file/77a999a99be177e7826be.mp4")
                 ]
             ]
         ),
