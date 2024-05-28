@@ -15,7 +15,7 @@
 
 
 <h2 align="center">
-    ─「 SURAJ MUSIC 」─
+    ─「 SURAJ  」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -74,7 +74,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Silentsmile29/TamannaMusic && cd TamannaMusic`
+`git clone https://github.com/surajislam/DORIEMON && cd TamannaMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
