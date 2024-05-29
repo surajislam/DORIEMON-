@@ -19,7 +19,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 16000))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002126936204"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002061421726"))
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID"))
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/anokhikeduniya")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/anokhikeduniya")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shairy_k_dunia")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RADHIKA_WORLD00")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
@@ -106,7 +106,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/77a999a99be177e7826be.mp4"
+    "START_IMG_URL", "https://graph.org/file/f12ef559b17ee1ab2fa11.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/bd5a086516e474eb4757c.jpg"
