@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐈𝐃 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "56464546",
+        "value": "24547299",
         "required": true
       },
       "API_HASH": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "42a60d9c657b106370c79b216546",
+        "value": "eb10c125d96d2146dc893b744470cea4",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "𝐆𝐄𝐓 𝐀 𝐌𝐎𝐍𝐆𝐎𝐃𝐁 𝐔𝐑𝐋 𝐅𝐑𝐎𝐌 https://cloud.mongodb.com. 𝐈𝐅 𝐘𝐎𝐔 𝐃𝐎𝐍𝐓 𝐇𝐀𝐕𝐄 𝐓𝐇𝐄𝐍 𝐔𝐒𝐄 𝐀𝐋𝐑𝐄𝐀𝐃𝐘 𝐅𝐈𝐋𝐋𝐄𝐃 𝐌𝐎𝐍𝐆𝐎.",
-        "value": "mongodb+srv://oliva:oliva123@cluster0.6cohqfv.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://simpletechnique2:simpletechnique2@cluster0.gji97iq.mongodb.net/",
         "required": true
       },
       "OWNER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃, 𝐔 𝐂𝐀𝐍 𝐔𝐒𝐄 𝐌𝐎𝐑𝐄 𝐏𝐄𝐑𝐒𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐆𝐈𝐕𝐄𝐈𝐍𝐆 𝐒𝐏𝐀𝐂𝐄 𝐀𝐅𝐓𝐄𝐑 𝐎𝐍𝐄 𝐈𝐃.",
-        "value": "556565646",
+        "value": "6727962511",
         "required": true
       },
       "STRING_SESSION": {
