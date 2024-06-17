@@ -19,7 +19,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 16000))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002035023865"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002126936204"))
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID"))
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("💝SUPPORT_CHANNEL💙", "https://t.me/Shayaridpsnamechannel575")
-SUPPORT_CHAT = getenv("🖤SUPPORT_CHAT❤️‍🔥", "https://t.me/+2r7UH3JFOg02ZjJl")
+SUPPORT_CHANNEL = getenv("💝DPZ_WOELD💙", "https://t.me/ABZ_ANOKHI")
+SUPPORT_CHAT = getenv("🖤 FRIEND_CHAT❤️‍🔥", "https://t.me/+m3nymlLAc44zODU9")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
